@@ -1,0 +1,18 @@
+{
+  "name": "trivikratech-pos",
+  "version": "1.0.0",
+  "description": "Trivikratech Jewellery POS & Inventory Management System (PHP & MySQL)",
+  "scripts": {
+    "start": "php -S 127.0.0.1:8000",
+    "dev": "php -S 127.0.0.1:8000",
+    "serve": "php -S 127.0.0.1:8000"
+  },
+  "keywords": [
+    "jewellery",
+    "pos",
+    "php",
+    "mysql"
+  ],
+  "author": "Trivikratech Solutions",
+  "license": "ISC"
+}
